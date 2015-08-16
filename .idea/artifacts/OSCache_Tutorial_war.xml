@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OSCache Tutorial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OSCacheTutorial-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="OSCache Tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
